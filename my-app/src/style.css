@@ -1,0 +1,10 @@
+.removeButton {
+	margin :10px;
+}
+.Unchecked{
+	color: green;
+}
+.Checked{
+	color: red;
+	text-decoration: line-through;
+}
